@@ -7,6 +7,6 @@
     <title>Insert title here</title>
 </head>
 <body>
-    <h2>Welcome to Spring Framework this is on tomcat server !!!</h2>
+    <h2>Welcome to Spring Framework !!!</h2>
 </body>
 </html>
